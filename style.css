@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 .flex{
     display: flex;
     align-items: center;
@@ -122,4 +125,30 @@ span{
 }
 #upor{
     padding-top: 60px;
+}
+.nicer-dan{
+    width: 60%;
+}
+.nicer-bam{
+    width: 40%;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom;
+    background-position: right;
+}
+.nicer img{
+    width: 90%;
+}
+.nicer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+.ffo{
+    color: blanchedalmond;
 }
