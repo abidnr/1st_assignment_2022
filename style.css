@@ -1,0 +1,49 @@
+.flex{
+    display: flex;
+    align-items: center;
+    padding: 50px 150px;
+    column-gap: 150px;
+}
+.jhamela{
+
+}
+.head_left{
+    width: 60%;
+   
+}
+.head_right{
+   width: 40%;
+}
+.head_right img{
+    width: 100%;
+}
+.Yeseva_One{
+    font-family: 'Yeseva One', cursive;
+    font-size: 50px;
+}
+span{
+    color: #FF7F3F;
+}
+.gap{
+    margin-bottom: -35px;
+}
+#sm{
+    border-left: 5px solid;
+    border-color: #FFC900;
+    
+}
+.poppi{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+.poppi1{
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+}
+.button{
+    text-decoration: none;
+    background:#B3541E;
+    color: white;
+    padding: 10px 30px;
+}
